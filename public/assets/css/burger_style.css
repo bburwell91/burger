@@ -1,0 +1,105 @@
+html {
+    background-color: #EF2917;
+}
+
+body {
+    width: 75%;
+    margin: 0 auto; 
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: #FFE74C;
+}
+
+#burger_logo {
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Fontdiner Swanky', cursive;
+    font-size: 65px;
+    margin: 50px;
+}
+
+.burgerAvailable {
+    font-family: 'Crafty Girls', cursive;
+    font-weight: normal;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 25px;
+    width: 50%;
+    margin: 10px auto;
+    padding: 5px;
+    background-color: #B2E4DB;
+    border: none;
+    float: right;
+}
+
+.burgerAvailable:hover {
+    background-color: #A2D0C8;
+}
+
+.burgerEaten {
+    font-family: 'Crafty Girls', cursive;
+    font-weight: normal;
+    font-size: 14px;
+    text-align: center;
+    width: 50%;
+    border-radius: 25px;
+    margin: 10px auto;
+    padding: 5px;
+    background-color: #ffd1c9;
+    float: left;
+}
+
+h2 {
+     text-align: center;
+    font-family: 'Fontdiner Swanky', cursive;
+    font-size: 40px;
+    margin: 10px 25px 50px 25px;
+}
+
+.formContainer {
+    background-color: orange;
+}
+
+.addBurgerButton {
+    font-family: 'Crafty Girls', cursive;
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 25px;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #7F5C31;
+    border: none;
+}
+
+.addBurgerButton:active {
+   background-color: #FFC04C;
+}
+
+.burgerFooter {
+   background-color: #FFC04C;
+   padding: 20px 0;
+}
+
+.burger-form {
+    margin: 0 auto 50px auto;
+}
+
+.burger-col {
+    text-align: center;
+}
+
+#copyright {
+    font-size: 10px;
+    margin: 30px 20px 0 20px;
+}
+
+#name {
+    width: 100%;
+}
