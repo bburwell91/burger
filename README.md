@@ -8,6 +8,6 @@ How the app functions:
 - Click the button with the name of your burger to send it to the right side of the page in the devoured column
 - This updates the database, you can add as many burgers as you like so please enjoy!
 
-LINK TO SITE
+https://hw14eatdaburger.herokuapp.com/
 
 EXAMPLE IMAGE
