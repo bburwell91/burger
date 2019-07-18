@@ -10,4 +10,4 @@ How the app functions:
 
 https://hw14eatdaburger.herokuapp.com/
 
-EXAMPLE IMAGE
+[img](https://github.com/bburwell91/burger/blob/master/public/assets/img/sample.png?raw=true)
