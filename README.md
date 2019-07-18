@@ -1,4 +1,4 @@
-# Eat-DA-Burger!
+# Eat-DA-GOOD-Burger!
 
 This is an app that logs data with MySQL, Node, Express, Handlebars, and Sequelize, and follows the MVC design pattern.
 
@@ -10,4 +10,4 @@ How the app functions:
 
 https://hw14eatdaburger.herokuapp.com/
 
-[img](https://github.com/bburwell91/burger/blob/master/public/assets/img/sample.png?raw=true)
+![img](https://github.com/bburwell91/burger/blob/master/public/assets/img/sample.png?raw=true)
